@@ -72,6 +72,7 @@
 ## 手册
 
 * [Linux命令大全](http://man.linuxde.net/)
+* [Git文档](https://git-scm.com/doc)
 
 ## 工具
 
