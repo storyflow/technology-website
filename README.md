@@ -73,6 +73,7 @@
 
 * [Linux命令大全](http://man.linuxde.net/)
 * [Git文档](https://git-scm.com/doc)
+* [Nginx开发指南](https://github.com/baishancloud/nginx-development-guide/blob/master/zh.md)
 
 ## 工具
 
