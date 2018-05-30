@@ -31,6 +31,7 @@
 * [网易乐得技术团队](http://tech.lede.com/)
 * [微信读书](https://wereadteam.github.io/)
 * [数据库内核月报](http://mysql.taobao.org/monthly/)
+* [阿里中间件团队博客](http://jm.taobao.org/)
 
 ## 国外技术团队
 
